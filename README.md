@@ -18,4 +18,4 @@ FutureIntern provides hands-on experience through real-world projects. During th
 | :---: | :--- | :--- | :--- |
 | **Task 1** | BUSINESS SALES PERFORMANCE ANALYTICS | Analysis of data of a business sales | [View Code](task1.ipynb) |
 | **Task 2** | Customer Retention & Churn Analysis | Churn analysis of customer useing python | [View Code](Task2.ipynb) |
-| **Task 3** | Marketing Funnel & Conversion Performance Analysis|performance based analysis useing visualization  | [View Code](./Task-3-Folder) |
+| **Task 3** | Marketing Funnel & Conversion Performance Analysis|performance based analysis useing visualization  | [View Code](Task3.ipynb) |
